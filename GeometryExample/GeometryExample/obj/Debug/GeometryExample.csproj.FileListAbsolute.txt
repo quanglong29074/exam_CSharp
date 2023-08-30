@@ -1,0 +1,8 @@
+E:\T2210A\GeometryExample\GeometryExample\bin\Debug\GeometryExample.exe.config
+E:\T2210A\GeometryExample\GeometryExample\bin\Debug\GeometryExample.exe
+E:\T2210A\GeometryExample\GeometryExample\bin\Debug\GeometryExample.pdb
+E:\T2210A\GeometryExample\GeometryExample\obj\Debug\GeometryExample.csproj.AssemblyReference.cache
+E:\T2210A\GeometryExample\GeometryExample\obj\Debug\GeometryExample.csproj.SuggestedBindingRedirects.cache
+E:\T2210A\GeometryExample\GeometryExample\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+E:\T2210A\GeometryExample\GeometryExample\obj\Debug\GeometryExample.exe
+E:\T2210A\GeometryExample\GeometryExample\obj\Debug\GeometryExample.pdb
